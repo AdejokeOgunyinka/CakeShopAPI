@@ -5,3 +5,6 @@ It contains a few pypi packages like:
 + django-cors-headers
 + djangorestframework
 + django
++ python-decouple
++ gunicorn
++ django-heroku
